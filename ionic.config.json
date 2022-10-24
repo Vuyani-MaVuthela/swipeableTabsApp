@@ -1,0 +1,7 @@
+{
+  "name": "swipeableTabsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
